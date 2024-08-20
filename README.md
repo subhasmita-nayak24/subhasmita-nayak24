@@ -3,9 +3,12 @@
 <h1 align="center">Hi 👋, I'm Subhasmita</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966"
+
+
   
 - 🌱 I’m currently learning **Reactjs,Nodejs,Mongodb and Nextjs**
 - 📫 How to reach me **subhasmitan24@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
